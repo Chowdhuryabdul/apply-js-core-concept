@@ -200,7 +200,7 @@ else{
 reining == false ? console.log('ami baire jabo na') : console.log('otherwise baire jabo')
 
 
-// How to tuse ternary in the Nested Condition 
+// How to use ternary in the Nested Condition 
 
 var age = 25;
 var hasLicense = true;
